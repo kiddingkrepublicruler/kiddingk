@@ -1,6 +1,9 @@
 ## hello,hows life yo people
 
 i am kynleigh
+<img src="https://cdn-static.denofgeek.com/sites/denofgeek/files/styles/main_wide/public/nicolas-cage.jpg?itok=rjISsdtg" alt="Image result for nicolas cage"/>
+i love sushi and seafood,DON'T JUDGE ME YOU MORONS,sorry,your not a moron,IF YOU LIKE SUSHI!!!!!
+
 
 You can use the [editor on GitHub](https://github.com/kiddingkrepublicruler/kiddingk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
