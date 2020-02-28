@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## hello,hows life yo people
 
-hi,i am kynleigh
+i am kynleigh
 
 You can use the [editor on GitHub](https://github.com/kiddingkrepublicruler/kiddingk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
